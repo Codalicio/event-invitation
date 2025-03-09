@@ -6,6 +6,7 @@
 
 4. Footer
 
-* Github Pages : 
-* Netlify : 
-* Vercel : 
+* Github : https://github.com/Codalicio/event-invitation
+* Github Pages : https://codalicio.github.io/event-invitation/
+* Netlify : https://strong-stroopwafel-39b151.netlify.app/
+* Vercel : https://event-invitation-two.vercel.app/
